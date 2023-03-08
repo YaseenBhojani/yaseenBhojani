@@ -1,6 +1,6 @@
 ### Hi there 👋, Yaseen Bhojani
 #### I am Software Engineer
-![I am Software Engineer](https://media.licdn.com/dms/image/D4D16AQHs0_NmF3MdBA/profile-displaybackgroundimage-shrink_350_1400/0/1678289214299?e=1683763200&v=beta&t=LSYULKpXU-r1HzOQVTHuyyU3VRX86TavN2r5pynwBUs)
+![I am Software Engineer](https://github.com/YaseenBhojani/yaseenBhojani/blob/main/LinkdinBanner.png)
 
 My name is Yaseen Bhojani and I'm a software engineer with experience in web and mobile application development. I specialize in front-end and back-end technologies, and I'm always eager to learn new skills and techniques.
 
