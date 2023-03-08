@@ -1,25 +1,10 @@
-# Yaseen Bhojani - Software Engineer
+### Hi there 👋, Yaseen Bhojani
+#### I am Software Engineer
+![I am Software Engineer](https://media.licdn.com/dms/image/D4D16AQHs0_NmF3MdBA/profile-displaybackgroundimage-shrink_350_1400/0/1678289214299?e=1683763200&v=beta&t=LSYULKpXU-r1HzOQVTHuyyU3VRX86TavN2r5pynwBUs)
 
-## About Me
+My name is Yaseen Bhojani and I'm a software engineer with experience in web and mobile application development. I specialize in front-end and back-end technologies, and I'm always eager to learn new skills and techniques.
 
-My name is Yaseen Bhojani and I'm a software engineer with experience in web and mobile application development. I specialize in front-end and back-end technologies, and I'm always eager to learn new skills and techniques. Here are some of my skills:
+Skills: REACT / JS / TYPESCRIPT / NODE JS / EXPRESS JS / MONGO DB / SASS / BOOTSTRAP / REDUX / ANT DESIGN / FIREBASE / GITHUB / HTML / CSS
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-- React
-- Ant Design
-- Bootstrap
-- Redux
-- Sass
-- Firebase
-- Node.js
-- Express.js
-- MongoDB
-- React Native
-- GitHub
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/yaseenBhojani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yaseenbhojani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100087140082784)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCb_8u-RKwic0QdSgeEFR6uw)  
 
-## Contact
-
-If you have any questions or would like to connect, you can reach me at [yaseenbhojani2@gmail.com](mailto:yaseenbhojani2@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/yaseenbhojani/).
