@@ -20,14 +20,6 @@ My name is Yaseen Bhojani and I'm a software engineer with experience in web and
 - React Native
 - GitHub
 
-## Projects
-
-Here are some of my notable projects:
-
-- **Project 1** - Description of the project and its features.
-- **Project 2** - Description of the project and its features.
-- **Project 3** - Description of the project and its features.
-
 ## Contact
 
-If you have any questions or would like to connect, you can reach me at [email@example.com](mailto:email@example.com) or on [LinkedIn](https://www.linkedin.com/in/yaseen-bhojani/).
+If you have any questions or would like to connect, you can reach me at [yaseenbhojani2@gmail.com](mailto:yaseenbhojani2@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/yaseenbhojani/).
